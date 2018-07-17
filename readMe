@@ -1,0 +1,5 @@
+set input file: input (SentimentAnalysis/src/main/resources/input）
+set output：output（any legal path）
+emotionCategory.txt（SentimentAnalysis/src/main/resources/emotionCategory.txt)
+
+use space to separate in configiuration programm arguments
